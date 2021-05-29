@@ -1,0 +1,1 @@
+# PHP-Bitcoin-Kur-Bilgileri
